@@ -3,7 +3,7 @@
 title:            Ocu Kampar
 locale:           en_US
 #url:              http://localhost:4000
-url:              http://kampar.github.io
+url:              http://andrinto.github.io
 
 
 # Jekyll configuration
@@ -27,24 +27,24 @@ kramdown:
 
 # Site owner
 owner:
-  name: Muhammad Jazman
+  name: Andrianto
   avatar: bio-photo.jpg
   bio: "Describe your self."
-  email: 
+  email: andriant16@gmail.com
   disqus-shortname: 
-  twitter: jazma101 #username
-  facebook: deactivate.py #username
+  twitter: 
+  facebook: Andri Nto
   google:
-    plus: kampar #username
+    plus: 
     analytics: 
     verify: 
     ad-client: 
     ad-slot: 
   bing-verify: 
-  github: kampar #username
+  github: andrinto #username
   stackoverflow: #http://stackoverflow.com/users/123456/username
   linkedin: #username
-  instagram: #username
+  instagram: andt0#username
   lastfm: #username
   tumblr: #username
   pinterest: #username
