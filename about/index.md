@@ -22,4 +22,5 @@ image:
 * fakultas sains dan teknologi
 * [universitas islam sultan syarif kasim riau](http://uin-suska.ac.id/)
 
+
 <a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
