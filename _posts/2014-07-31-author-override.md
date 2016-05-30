@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Andrianto Sayang Kmu Celalu"
-author: billy_rick
+title: "Profil Andrianto"
+author: Andrianto
 modified:
-excerpt: "A post to test author overrides using a data file."
+excerpt: Hey Semuanya, apakabarr."
 tags: []
 ---
 
@@ -16,22 +16,22 @@ Start by modifying or creating a new `authors.yml` file in the `_data` folder an
 {% highlight yaml %}
 # Authors
 
-billy_rick:
-  name: Billy Rick
-  web: http://thewhip.com
-  email: billy@rick.com
-  bio: "What do you want, jewels? I am a very extravagant man."
+Andrianto:
+  name: Andrianto
+  web: http://andrianto.com
+  email: andrinto21@gmail.com
+  bio: "Ibadah adalah prioritas utama ku."
   avatar: bio-photo-2.jpg
   twitter: extravagantman
   google:
-    plus: BillyRick
+    plus: Andt Nto
 
 cornelius_fiddlebone:
-  name: Cornelius Fiddlebone
-  email: cornelius@thewhip.com
-  bio: "I ordered what?"
+  name: Rudi Wijaya
+  email: rudiwijayaa15@gmail.com
+  bio: "Selalu bersyukur, Insya Allah?"
   avatar: bio-photo.jpg
-  twitter: rhymeswithsackit
+  twitter: @rudi_wijayaa
   google:
     plus: CorneliusFiddlebone
 {% endhighlight %}
